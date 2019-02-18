@@ -1,0 +1,6 @@
+C:\Autotesting\repository\Autotest\Lesson1-2\bin\Debug\Lesson1-2.exe.config
+C:\Autotesting\repository\Autotest\Lesson1-2\bin\Debug\Lesson1-2.exe
+C:\Autotesting\repository\Autotest\Lesson1-2\bin\Debug\Lesson1-2.pdb
+C:\Autotesting\repository\Autotest\Lesson1-2\obj\Debug\Lesson1-2.csproj.CoreCompileInputs.cache
+C:\Autotesting\repository\Autotest\Lesson1-2\obj\Debug\Lesson1-2.exe
+C:\Autotesting\repository\Autotest\Lesson1-2\obj\Debug\Lesson1-2.pdb
