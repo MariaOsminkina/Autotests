@@ -10,7 +10,7 @@ namespace Lesson2_2
     {
         static void Main(string[] args)
         {
-            bool isInt(string value)
+            int isInt(string value)
             {
                 bool isCorrect = int.TryParse(value, out int res);
                 if (!isCorrect)
@@ -18,20 +18,19 @@ namespace Lesson2_2
                     Console.WriteLine("\r\nIncorrect value. Integer is needed.");
                     Console.ReadLine();
                 }
-                return isCorrect;
+                return res;
             }
+            
 
             Console.Clear();
 
             Console.WriteLine("\r\nEnter first operand:");
             var entered = Console.ReadLine();
-            if (!isInt(entered)) { return; }
-            int first = int.Parse(entered);
+            int first = isInt(entered);
 
             Console.WriteLine("\r\nEnter second operand:");
             entered = Console.ReadLine();
-            if (!isInt(entered)) { return; }
-            int second = int.Parse(entered);
+            int second = isInt(entered);
 
             Console.WriteLine("\r\nEnter operation symbol. +-*/^ are allowed.");
             entered = Console.ReadLine();
