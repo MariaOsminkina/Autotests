@@ -35,14 +35,12 @@ namespace Lesson2
 
                 Console.WriteLine("\r\nIncorrect login or password. Try again.");
             }
-
             if (isAuthorized) {
                 Console.WriteLine("\r\nSuccessful authorization. Welcome.");
             } else {
                 Console.WriteLine("\r\nAttempts are over. Please, try again later.");
             }
             Console.ReadLine();
-
         }
     }
 }

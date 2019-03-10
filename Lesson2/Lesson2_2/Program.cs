@@ -33,7 +33,7 @@ namespace Lesson2_2
             if (!isInt(entered)) { return; }
             int second = int.Parse(entered);
 
-            Console.WriteLine("\r\nEnter operation symbol:");
+            Console.WriteLine("\r\nEnter operation symbol. +-*/^ are allowed.");
             entered = Console.ReadLine();
 
             switch (entered.ToUpper())
