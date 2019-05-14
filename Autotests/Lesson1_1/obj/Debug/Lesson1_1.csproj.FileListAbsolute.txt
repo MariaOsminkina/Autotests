@@ -1,7 +1,0 @@
-C:\Autotesting\repository\Autotest\Lesson1_1\bin\Debug\AutotestLesson1.exe.config
-C:\Autotesting\repository\Autotest\Lesson1_1\bin\Debug\AutotestLesson1.exe
-C:\Autotesting\repository\Autotest\Lesson1_1\bin\Debug\AutotestLesson1.pdb
-C:\Autotesting\repository\Autotest\Lesson1_1\obj\Debug\Lesson1_1.csprojAssemblyReference.cache
-C:\Autotesting\repository\Autotest\Lesson1_1\obj\Debug\Lesson1_1.csproj.CoreCompileInputs.cache
-C:\Autotesting\repository\Autotest\Lesson1_1\obj\Debug\AutotestLesson1.exe
-C:\Autotesting\repository\Autotest\Lesson1_1\obj\Debug\AutotestLesson1.pdb
